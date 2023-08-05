@@ -1,0 +1,10 @@
+{
+    "videoPath" : "dialogues.mp4",
+    "titleText" : "Top 3:\n\nDialogues Of All Time",
+    "outputFilename": "output.mp4",
+    "captions" : [
+        {"caption": "Mr India (1987)\nAmrish Puri", "time": 0},
+        {"caption": "Sholay (1975)\nAmjad Khan", "time": 6},
+        {"caption": "Don (1978)\nAmitabh Bachchan", "time": 25}
+    ]
+}
